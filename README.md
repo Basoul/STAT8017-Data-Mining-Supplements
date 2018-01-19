@@ -1,2 +1,3 @@
 # STAT8017-Data-Mining-Supplements
-STAT8017 Data Mining Supplements (Python materials)
+
+All Python materials support the course STAT8017 Data Mining Techniques at The University of Hong Kong.
